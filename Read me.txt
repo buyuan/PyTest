@@ -1,0 +1,6 @@
+Read me.txt
+0. I put the json in the word in to 'testData.json'
+1. File 'createLocalCSV.py' is for creating local CSV file, and the 'result.csv' is the result of the program
+2. File 'createSpreadSheet.py' is for creating google spreadsheet, and the link below is the address, I have not update information about my personal google account, then, you can change the credential with you own one if you want to run this program.
+
+https://docs.google.com/spreadsheets/d/1q-D_7cCQccVHErK2j9uJjqQnk_R5Bh1rocrK9Sgo8yc/edit?usp=sharing
